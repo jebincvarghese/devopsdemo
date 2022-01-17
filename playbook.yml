@@ -1,4 +1,7 @@
 - Installing Apache Webserver.
 - creating httpd.conf from template
+- creating virtualhost from template
+- creating documentroot
+- creating sample file unser virtualhost
 - Restarting apache Webserver
 

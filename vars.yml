@@ -1,4 +1,5 @@
 httpd_user: "apache"
 httpd_group: "apache"
 httpd_port: 80
+httpd_domain: "www.example.com"
 
